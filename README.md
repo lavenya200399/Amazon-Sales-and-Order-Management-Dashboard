@@ -4,6 +4,9 @@
 ## Overview
 This Power BI dashboard project provides a comprehensive overview of Amazon sales data. It displays key metrics such as total sales, seller count, and sale units, alongside visualizations of sales by city and state. The dashboard also includes filters for order status and product categories, allowing for in-depth analysis.
 
+# Dashboard
+![Dashboard Overview](https://github.com/lavenya200399/Amazon-Sales-and-Order-Management-Dashboard/blob/main/dashboard%201.png)
+
 ## Features
 Dynamic Filters: Filter by order status and product category.
 Sales Analysis: Total sales, sales by city and state, and sales trends over time.
